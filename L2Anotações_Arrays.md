@@ -59,4 +59,4 @@ string get_string (string prompt);
         stdio.c
         ```
 ------
-### (Continuar Estudos: 26:22)
+### (Continuar Estudos: 26:22).
