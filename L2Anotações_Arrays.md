@@ -1,7 +1,7 @@
 # Anotações sobre "Arrays (Vetores)"
 ## Aula CS50 - 2024 Version
 
-![Compiling](https://cs50.harvard.edu/x/2022/notes/1/compiler.png)
+![Compiling|697](https://cs50.harvard.edu/x/2022/notes/1/compiler.png)
 
 ---------
 ### Criptografia:
