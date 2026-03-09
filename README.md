@@ -17,12 +17,12 @@ O objetivo deste espaço é centralizar meus estudos sobre lógica de programaç
 ---
 
 ## Índice
-- [[#Habilidades em Desenvolvimento]]
-- [[#Estrutura do Repositório]]
-- [[#Tecnologias Utilizadas / Mencionadas]]
-- [[#Como Visualizar]] 
-- [[#Contribuindo]]
-- [[#Créditos e Contato]]
+* [Habilidades em Desenvolvimento](#habilidades-em-desenvolvimento) 
+* [Estrutura do Repositório](#estrutura-do-repositório) 
+* [Tecnologias Utilizadas / Mencionadas](#tecnologias-utilizadas--mencionadas) 
+* [Como Visualizar](#como-visualizar) 
+* [Contribuindo](#contribuindo) 
+* [Créditos e Contato](#créditos-e-contato)
 
 ---
 
