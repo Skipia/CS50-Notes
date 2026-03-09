@@ -1,6 +1,6 @@
 # CS50-Notes
 
-<p align="center"> <img src="https://i.pinimg.com/originals/c3/a9/a8/c3a9a87ed744873864ffbf67922ec014.gif" width="400"> </p>
+<p align="center"> <img src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" width="400"> </p>
 
 ![Course](https://img.shields.io/badge/Course-CS50--Harvard--2024v-blue)
 ![Language](https://img.shields.io/badge/Current%20Language%20Studying-C-A8B9CC)
