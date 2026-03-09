@@ -57,6 +57,8 @@ As notas estão organizadas por semanas, seguindo o cronograma do curso:
 ## Como Visualizar
 Você pode ler as notas diretamente aqui pelo GitHub, navegando entre as pastas. Se você usa o **Obsidian**, pode clonar este repositório para o seu computador e abrir como um "Vault" para ver os links internos e a visualização em grafo. 
 
+``
+
 ```bash
 git clone [https://github.com/Skipia/CS50-Notes.git](https://github.com/Skipia/CS50-Notes.git)
 ````
