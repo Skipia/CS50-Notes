@@ -31,6 +31,7 @@ Exemplo de Representação:
 - Números Inteiros (Notação Complemento de dois)
 - Letras (ASCII, Unicode, etc...)
 
+
 **OBS: Notação**
 - Binária: Base 2
 - Octal: Base 8
