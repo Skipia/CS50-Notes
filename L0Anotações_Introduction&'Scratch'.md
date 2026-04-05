@@ -32,9 +32,9 @@ Exemplo de Representação:
 - Letras (ASCII, Unicode, etc...)
 
 **OBS: Notação**
-> Binária: Base 2
-> Octal: Base 8
-> Decimal: Base 10
-> Hexadecimal: Base 16
+- Binária: Base 2
+- Octal: Base 8
+- Decimal: Base 10
+- Hexadecimal: Base 16
 
 
