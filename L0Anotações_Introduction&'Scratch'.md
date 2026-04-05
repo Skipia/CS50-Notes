@@ -83,3 +83,5 @@ Exemplo de Representação: U+1F602 (Base 16)
 	- Ex: U+1F44D (Emoji de Joaninha padrão)
 	- U+1F44D U+1F3FD (Emoji de Joaninha com uma tonalidade de cor diferente)
 ------------
+### 5. RGB (Red, Green, Blue) - Sistema Hexadecimal (Hex):
+(Continuar Anotando)
