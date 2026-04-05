@@ -19,6 +19,22 @@ Output: Ex: Objetivo (Solução)
 
 --------
 ### 2. Binary Digit (0 and 1):
+- **1 Byte = ** 8 bits (Dígitos Binários)
 - **Linguagem de máquina:** descreve as coisas através de diferentes permutações de números (representar informações com 0's e 1's);
+
+Exemplo de Representação:
+![BinaryRepresentation|471](https://www.virtualcuriosities.com/wp-content/uploads/2023/11/bits-as-lamps.webp)
+
+
+#### Uma sequência de bites pode representar:
+- Números Naturais (Notação Binária)
+- Números Inteiros (Notação Complemento de dois)
+- Letras (ASCII, Unicode, etc...)
+
+**OBS: Notação**
+> Binária: Base 2
+> Octal: Base 8
+> Decimal: Base 10
+> Hexadecimal: Base 16
 
 

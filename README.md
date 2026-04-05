@@ -90,4 +90,3 @@ Como este é um repositório de estudo, **correções são sempre muito bem-vind
 
 Este repositório é para fins educacionais.
 
-Batata
