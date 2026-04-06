@@ -84,4 +84,35 @@ Exemplo de Representação: U+1F602 (Base 16)
 	- U+1F44D U+1F3FD (Emoji de Joaninha com uma tonalidade de cor diferente)
 ------------
 ### 5. RGB (Red, Green, Blue) - Sistema Hexadecimal (Hex):
-(Continuar Anotando)
+- Combinação de diferentes intensidades de cores, formando outras cores;
+```C 
+(255, 0, 0) = Vermelho Puro
+(0, 225, 0) = Verde Puro
+(0, 0, 225) = Azul Puro
+(0, 0, 0) = Preto 
+(255, 225, 225) = Branco
+(255, 255, 0) = Amarelo
+```
+----------------
+
+### 6. Pixels (Picture Element): 
+- Pode variar no número de bets / pixel.
+- Quanto mais bits, mais intensidades de cores podem ser representadas.
+- 24 bits / pixel (RGB completo) - "True Color"
+	- 8 bits(R) + 8 bits(G) + 8 bits(B) = 24 bits
+- 256 intensidades diferentes em cada (0 a 255)
+- 256 * 256 * 256 = aproximadamente 16,7 milhões de cores (possibilidades por pixel)
+
+-------------
+
+### 7. Busca Binária:
+- Algoritmo de busca utilizado para encontrar um determinado valor dentro de uma lista através de sucessivas divisões. Também pode determinar se o valor existe ou não na lista.
+---------
+
+### 8. Pseudocódigo: 
+- Uma "semilinguagem" utilizada para organizar seus pensamentos e ações em um passo a passo (algoritmo). Um processo bem descritivo.
+- EX: Portugol (Visualg)
+-----------
+
+### 9. Estruturas e Comandos de um Pseudocódigo:
+(Continuar Estudando)
