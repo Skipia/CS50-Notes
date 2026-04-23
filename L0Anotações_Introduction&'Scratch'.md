@@ -115,4 +115,19 @@ Exemplo de Representação: U+1F602 (Base 16)
 -----------
 
 ### 9. Estruturas e Comandos de um Pseudocódigo:
-(Continuar Estudando)
+- Condicionais (if/else)
+- Repetição (loops)
+- Procedimentos
+- Funções
+- Vetores
+- Matrizes
+- Expressões Booleanas
+- Entre Outros...
+--------
+
+### 10. AI - Inteligência Artificial
+
+* **Chatbots:** Representam uma mudança de paradigma na interface de usuário, onde a interação ocorre via linguagem natural em vez de botões ou linhas de comando estritas.
+* **LLM (Large Language Models):** São Modelos treinados em vastos conjuntos de dados (Common Crawl, Wikipedia, livros, etc) para prever a próxima unidade de texto (*token*).
+	* **Funcionamento:** Utiliza **estatística e probabilidade** para identificar padrões idiomáticos e contextuais.
+	* **Aplicações em Dev:** Ferramentas como o GitHub Copilot utilizam esses modelos para sugerir *boilerplate* de código e funções inteiras baseadas no contexto do arquivo atual.
